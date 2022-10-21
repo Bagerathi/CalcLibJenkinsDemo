@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLibJenkinsDemo", "CalcLibJenkinsDemo\CalcLibJenkinsDemo.csproj", "{24AA5D25-657D-4346-95B1-E4F44E5BAAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24AA5D25-657D-4346-95B1-E4F44E5BAAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AA5D25-657D-4346-95B1-E4F44E5BAAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AA5D25-657D-4346-95B1-E4F44E5BAAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AA5D25-657D-4346-95B1-E4F44E5BAAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4785D5-EE4B-4583-96D9-306C3F6BBFC5}
+	EndGlobalSection
+EndGlobal
