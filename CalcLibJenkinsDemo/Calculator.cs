@@ -35,8 +35,11 @@ namespace CalcLibJenkinsDemo
                         res = num1 * num2;
                         Console.WriteLine("Multiplication:" + res);
                         break;
-                   
 
+                    case "/":
+                        res = num1 / num2;
+                        Console.WriteLine("Division:" + res);
+                        break;
                     default:
                         Console.WriteLine("Wrong input");
                         break;
