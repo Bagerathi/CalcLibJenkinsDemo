@@ -41,8 +41,9 @@ namespace CalcLibJenkinsDemo
                         Console.WriteLine("Division:" + res);
                         break;
                     default:
-                        Console.WriteLine("Wrong input");
-                        
+                   Console.WriteLine("Wrong input");
+                        break;
+
                 }
                 Console.ReadLine();
                 Console.Write("Do you want to continue(y/n):");
