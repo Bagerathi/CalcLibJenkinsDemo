@@ -42,7 +42,7 @@ namespace CalcLibJenkinsDemo
                         break;
                     default:
                         Console.WriteLine("Wrong input");
-                        break;
+                        
                 }
                 Console.ReadLine();
                 Console.Write("Do you want to continue(y/n):");
